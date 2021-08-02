@@ -4,7 +4,7 @@
 
 ## guidelines
 
-- Use .pdf
+- Use .pdf or .md
 
 ## license
 
