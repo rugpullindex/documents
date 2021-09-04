@@ -5,7 +5,62 @@ organization. Its purpose is to allow contributors to quickly get up to speed
 with how things are done around here. Other company's have handbooks too.
 Notable examples are Valve (Steam) and GitLab.
 
-## Financials
+## How to get an offer approved to start working on RPI
+
+To start getting paid for your work on RPI you will need to create a one page proposal outlining the work you intend to do, the amount of time it will take you and your hourly rate in USD. 
+
+### Getting Paid
+
+All work will be paid retroactively in USDC either in stages, upon partial completion of your project, or in full upon completion.
+
+### Expenses
+
+If you intend to incur outside expenditure for your project that you wish to be reimbursed for, this will need to be estimated and the amount approved in advance. A receipt for expenditure will need to be provided in order to receive reimbursements. 
+
+### Deciding what should be in your proposal
+
+In some instances you will have clear deliverables as set by the RPI team (e.g. tasks or chunks of work that the RPI team have already provided an outline for). When this is the case, your proposal should outline how you intend to achieve these outcomes and the amount of time you need to complete them. 
+
+In other instances you will be proposing something new. For these proposals we recommend discussing your ideas and/or getting feedback from the RPI team on Discord first. This will help to ensure your intentions and the needs of the RPI project are aligned. 
+
+### Writing Your Proposal
+
+Your proposal should be a short, concise (roughly 1 page) summary of the work you intend to do and the impact &/or reasons why the work you are proposing will be valuable to RPI.
+
+* Try to keep proposals targeted and specific. Upon successful completion of one proposal you can always submit a second.
+* Try to break down larger chunks of work into smaller, manageable pieces which add value. 
+* Every proposal, once complete, should have added value to RPI in some way.
+* If the proposal does not add enough value relative to the cost it will not be funded. This is to ensure we have a positive ROI for all proposals approved .
+* Proposals with a large scope and open ended deliverables are unlikely to be funded.
+
+
+### Estimating your time
+
+Once you have broken down your deliverables into appropriately sized chunks, and clearly summarised the work &/or value you intend to provide it should be relatively easy to estimate how much time you will need to complete the task. 
+
+Add an estimate to each task and calculate the overall time estimate. This, along with your hourly rate will be used to calculate the total cost of your proposal. This total cost and your proposed deliverables will need to be approved before you start working. 
+
+Once approved, this amount (total cost) will be set aside for you to complete your deliverables. 
+
+### Keeping up to date with delivery
+
+Once you have received approval for your project and begin working, it’s important to keep track of the time you spend. If at any stage it’s looking like you will need to adjust your estimates, or change direction from the original plan, please check in with the team for further approvals before going ahead and committing extra hours.
+
+Any additional hours/work you do that wasn’t approved will not automatically be funded. We know that things change as you get deeper into a project and sometimes other factors outside your control will impact your deliverables. That’s ok, but what is important is that you communicate these changes clearly with the team as and when they arise. 
+
+### I want to submit a work proposal, what should I do now?
+
+If you haven’t already, come and chat to the team on Discord about the work you intend to do, to help scope your initial project. 
+
+All proposals should be submitted via email to: tim (at) daubenschuetz (dot) de
+
+We look forward to hearing from you and good luck!
+
+The RPI team.
+
+
+
+## How we calculate the amount of funds requested on Ocean DAO proposals
 
 ### Methodology to Request Funds in the OCEANDAO
 
