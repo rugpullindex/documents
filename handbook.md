@@ -51,7 +51,7 @@ If your proposal has been approved, you have completed your tasks to the agreed 
 
 Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice!
 
-IMPORTANT NOTE: Allow for up to 7 days for your invoice to be paid.
+IMPORTANT NOTE: Allow for up to 14 days for your invoice to be paid.
 
 **Each grant request must include the details below:**
 
