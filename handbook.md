@@ -9,8 +9,6 @@ Notable examples are Valve (Steam) and GitLab.
 
 To start getting paid for your work on RPI you will need to create a one page proposal outlining the work you intend to do, the amount of time it will take you and your hourly rate in USD. 
 
-### Getting Paid
-
 All work will be paid retroactively in USDC either in stages, upon partial completion of your project, or in full upon completion.
 
 ### Expenses
@@ -30,9 +28,8 @@ Your proposal should be a short, concise (roughly 1 page) summary of the work yo
 * Try to keep proposals targeted and specific. Upon successful completion of one proposal you can always submit a second.
 * Try to break down larger chunks of work into smaller, manageable pieces which add value. 
 * Every proposal, once complete, should have added value to RPI in some way.
-* If the proposal does not add enough value relative to the cost it will not be funded. This is to ensure we have a positive ROI for all proposals approved .
+* If the proposal does not add enough value relative to the cost it will not be funded. This is to ensure we have a positive ROI for all proposals approved.
 * Proposals with a large scope and open ended deliverables are unlikely to be funded.
-
 
 ### Estimating your time
 
@@ -48,11 +45,36 @@ Once you have received approval for your project and begin working, it’s impor
 
 Any additional hours/work you do that wasn’t approved will not automatically be funded. We know that things change as you get deeper into a project and sometimes other factors outside your control will impact your deliverables. That’s ok, but what is important is that you communicate these changes clearly with the team as and when they arise. 
 
+### Getting Paid
+
+If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice using [Request](https://invoicing.request.network/) and make sure to address it to tim@daubenschuetz.de.
+
+Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice!
+
+IMPORTANT NOTE: Allow for up to 7 days for your invoice to be paid.
+
+**Each grant request must include the details below:**
+
+* Email address
+* Invoice date
+* Your country
+* Description of grant reason
+* Grant amount (USDC)
+* Payment details - crypto-wallet address
+
+**Please address the invoice to:**
+
+Tim Daubenschütz
+Badstr. 38
+13357 Berlin
+Germany
+tim@daubenschuetz.de
+
 ### I want to submit a work proposal, what should I do now?
 
-If you haven’t already, come and chat to the team on Discord about the work you intend to do, to help scope your initial project. 
+We can't guarantee there will always be funding available for proposals so the best thing to do is jump on [Discord](https://discord.gg/hBQVJY9Me6) and get to know more about the product. Any requests for proposals will be submitted on Discord. 
 
-All proposals should be submitted via email to: tim (at) daubenschuetz (dot) de
+**All proposals should be submitted via email to: tim@daubenschuetz.de**
 
 We look forward to hearing from you and good luck!
 
