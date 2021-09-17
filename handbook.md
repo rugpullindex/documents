@@ -2,7 +2,7 @@
 
 The RPI Handbook is a method to document processes within the Rug Pull Index
 organization. Its purpose is to allow contributors to quickly get up to speed
-with how things are done around here. Other company's have handbooks too.
+with how things are done around here. Other companies have handbooks too.
 Notable examples are Valve (Steam) and GitLab.
 
 ## How to get an offer approved to start working on RPI
