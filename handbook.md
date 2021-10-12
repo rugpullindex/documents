@@ -5,6 +5,18 @@ organization. Its purpose is to allow contributors to quickly get up to speed
 with how things are done around here. Other companies have handbooks too.
 Notable examples are Valve (Steam) and GitLab.
 
+## What It Means To Work For The Public Good
+
+Rug Pull Index has repeatedly received funds from the [oceanDAO](https://oceanprotocol.com). In all our proposals, our main rethoric was along the following lines: "We're creating value for the Ocean Protocol and hence we're allowing ourselves to regularly raise funds from the DAO."
+
+Living this rethoric yields some practical requirements that influences our work directly. An example:
+
+We try to reduce information asymmetry and we strive to discuss all matters not subject to exposing sensitive information (e.g. PII, etc.)) in public channels to allow everyone to become part of a conversation.
+
+We do so as we believe in a swarm intelligence. We acknowledge that innovation stems from an organic discovery process fueled through the collective and not through the articifial production of a or some individuums.
+
+We have an incomplete but ripening set of values that we regularly reflect our actions upon. We value authenticity, responsibility and fairness. They shall guide our work. 
+
 ## How to get an offer approved to start working on RPI
 
 To start getting paid for your work on RPI you will need to create a one page proposal outlining the work you intend to do, the amount of time it will take you and your hourly rate in USD. 
