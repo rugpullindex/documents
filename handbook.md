@@ -15,6 +15,8 @@ We try to reduce information asymmetry and we strive to discuss all matters not 
 
 We do so as we believe in a swarm intelligence. We acknowledge that innovation stems from an organic discovery process fueled through the collective and not through the articifial production of a or some individuums.
 
+We believe that continuity, originality and commitment are the drivers of value and innocation.
+
 We have an incomplete but ripening set of values that we regularly reflect our actions upon. We value authenticity, responsibility and fairness. They shall guide our work. 
 
 ## How to get an offer approved to start working on RPI
