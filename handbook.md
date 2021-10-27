@@ -117,7 +117,7 @@ proposal:
 |[R6](https://port.oceanprotocol.com/t/rugpullindex-com-proposal-r6/650)|9360|13000|2021-06-08|7546.43|2021-06-09|-1813.57|-1813.57|
 |[R7](https://port.oceanprotocol.com/c/oceandao/round-7/64)|10080|22400|2021-07-21|8390.49|2021-07-22|-1689.51|-1751.54|
 |[R8](https://port.oceanprotocol.com/t/rugpullindex-com-round-8-proposal/801?u=timdaub)|10276.61|19391.00|2021-08-16|15742.78|2021-08-17|5466.17|654.36|
-|[R10](https://port.oceanprotocol.com/t/rugpullindex-com-improving-data-trading-safety/970?u=timdaub)|16536.65|21,933|2021-10-15|17475.513978|2021-10-18|938.863978|725.48|
+|[R10](https://port.oceanprotocol.com/t/rugpullindex-com-improving-data-trading-safety/970?u=timdaub)|16536.65|21933|2021-10-15|17475.51|2021-10-18|938.86|725.48|
 
 As can be seen, all we do is compare the fiat value of OCEANs we've originally
 requested, with those that we have received. For that to work in a fair way,
