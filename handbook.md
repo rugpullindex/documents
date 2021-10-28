@@ -11,7 +11,7 @@ Rug Pull Index has repeatedly received funds from the [oceanDAO](https://oceanpr
 
 Living this rethoric yields some practical requirements that influences our work directly. An example:
 
-We try to reduce information asymmetry and we strive to discuss all matters not subject to exposing sensitive information (e.g. PII, etc.)) in public channels to allow everyone to become part of a conversation.
+We try to reduce information asymmetry and we strive to discuss all matters not subject to exposing sensitive information (e.g. PII, etc.) in public channels to allow everyone to become part of a conversation.
 
 We do so as we believe in a swarm intelligence. We acknowledge that innovation stems from an organic discovery process fueled through the collective and not through the articifial production of a or some individuums.
 
