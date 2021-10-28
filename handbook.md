@@ -17,7 +17,7 @@ We do so as we believe in the existence of the swarm intelligence. We acknowledg
 
 We believe that continuity, originality and commitment are the drivers of value and innovation.
 
-We have an incomplete but ripening set of values that we regularly reflect our actions upon. We value authenticity, responsibility and fairness. They shall guide our work. 
+We have an incomplete but ripening set of values that we regularly reflect our actions upon. We value authenticity, responsibility and fairness. These shall guide our work. 
 
 ## How to get an offer approved to start working on RPI
 
