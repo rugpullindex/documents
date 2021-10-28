@@ -13,7 +13,7 @@ Living this rethoric yields some practical requirements that influences our work
 
 We try to reduce information asymmetry and we strive to discuss all matters not subject to exposing sensitive information (e.g. PII, etc.) in public channels to allow everyone to become part of a conversation.
 
-We do so as we believe in the existence of the swarm intelligence. We acknowledge that innovation stems from an organic discovery process fueled through the collective and not the articifial production of an individuum.
+We do so as we believe in the existence of the swarm intelligence. We acknowledge that innovation stems from an organic discovery process fueled through the collective and not the ingenuity of an individuum.
 
 We believe that continuity, originality and commitment are the drivers of value and innocation.
 
